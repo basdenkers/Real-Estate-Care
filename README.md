@@ -7,7 +7,7 @@ Welkom bij mijn eindopdracht Frameworks ontwikkeld voor LOI Frontend Developer c
 Om te beginnen dien je onderstaande commando's in genoemde volgorde uit te voeren waarna je de applicatie lokaal kan laten funtioneren en gebruiken:
 
 ```bash
-  1. git clone https://github.com/basdenkers/Case-Real-Estate-Care/
+  1. git clone https://github.com/basdenkers/Real-Estate-Care/
 ```
 ```bash
   2. npm install
