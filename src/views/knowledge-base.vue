@@ -25,8 +25,6 @@
 
     import file1 from '@/files/document-1.docx?url'
     import file2 from '@/files/document-2.docx?url'
-    import file3 from '@/files/example-document-3.docx?url'
-    import file4 from '@/files/example-document-4.docx?url'
 
     export default {
         methods: {
