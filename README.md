@@ -16,6 +16,11 @@ Om te beginnen dien je onderstaande commando's in genoemde volgorde uit te voere
   3. npm run dev
 ```
 
+## Demo
+
+Online demo is terug te vinden op web-URL https://animated-stardust-3f79b0.netlify.app/login . 
+
+
 ## Inloggen
 
 Inloggen op de applicatie kan met twee gebruikers, zie onderstaande informatie:
