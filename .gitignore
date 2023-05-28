@@ -1,0 +1,52 @@
+<<<<<<< HEAD
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+=======
+# Logs
+logs
+*.log
+>>>>>>> b8f8fe1 (Commit)
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+<<<<<<< HEAD
+
+# Editor directories and files
+.idea
+.vscode
+=======
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+>>>>>>> b8f8fe1 (Commit)
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+<<<<<<< HEAD
+=======
+package-lock.json
+>>>>>>> b8f8fe1 (Commit)

@@ -1,0 +1,26 @@
+[
+    {
+        "email": "admin@real-estate-care.nl",
+        "password": "admin123",
+        "id": 1,
+        "firstName": "Admin Firstname",
+        "lastName": "Admin Surname",
+        "settings": {
+            "darkTheme": false,
+            "notifications": false,
+            "sounds": true
+        }
+    },
+    {
+        "email": "admin2@real-estate-care.nl",
+        "password": "admin123",
+        "id": 2,
+        "firstName": "Admin 2 Firstname",
+        "lastName": "Admin 2 Surname",
+        "settings": {
+            "darkTheme": true,
+            "notifications": true,
+            "sounds": false
+        }
+    }
+]
