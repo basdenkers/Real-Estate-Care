@@ -6,7 +6,7 @@
                 <form @submit.prevent="loginRoute" id="login" name="login" method="post">
                     <div class="mb-3">
                         <label for="email" class="form-label" aria-label="Email">Email</label>
-                        <input type="email" class="form-control" id="email" name="email" value="admin@real-estate-care.nl" placeholder="admin@real-estate-care.nl" aria-describedby="email-help">
+                        <input type="email" class="form-control" id="email" name="email" value="admin2@real-estate-care.nl" placeholder="admin2@real-estate-care.nl" aria-describedby="email-help">
                     </div>
                     <div class="mb-3">
                         <label for="password" class="form-label" aria-label="Password">Password</label>
