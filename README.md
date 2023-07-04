@@ -4,7 +4,7 @@
 Wanneer u uitlogt wordt alle JSON data gereset. Dit heb ik gedaan, omdat ik wil dat iedereen alles kan aanpassen tijdens het testen. Zodat de volgende persoon die het nakijkt ook weer nieuwe data heeft en alles kan proberen.
 
 ### Installatie
-1. Kloon de repository van Github met `git clone <repository-url>`
+1. Kloon de repository van Github met `git clone https://github.com/basdenkers/Real-Estate-Care`
 2. Installeer de vereiste packages met `npm install`
 3. Start de development server met `npm run dev`
 
@@ -37,7 +37,7 @@ Dit project is een Vue.js-gebaseerde app voor het beheren van inspecties in de v
 
 Om de veiligheid van de applicatie te garanderen, is er een inlogscherm toegevoegd volgens de technische beschrijving in de case. Ook word er constant gecheckt of de gebruiker is ingelogd en of de gebruiker gekoppeld is aan de inspectie.
 
-### Toegankelijkheid
+### Toegankelijkheid WCAG 2.1-richtlijnen
 
 De toegankelijkheid van de applicatie is verbeterd door gebruik te maken van ARIA-labels en -attributen en door de gebruiksvriendelijkheid te testen met keyboardnavigatie. De applicatie voldoet aan de WCAG 2.1-richtlijnen.
 - Ik heb gelet erop dat alle afbeeldingen alternatieve teksten hebben die vertellen wat de afbeelding inhoud.
